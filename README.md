@@ -1,4 +1,4 @@
-Simple Quiz Game
+Quiz Game
 Overview
 
 This is a simple quiz game built in Python. The game presents a series of questions to the player, who must select the correct answer from multiple choices. The game tracks the player's score and provides feedback on their performance.
@@ -9,6 +9,7 @@ Features
     Feedback on correct and incorrect answers
     Easy to extend with additional questions
 
+Example:
 Installation
 
     Clone the repository:
